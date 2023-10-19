@@ -1,0 +1,9 @@
+recipe name: biriyani
+ingredients:
+chiken:1kg
+basmati rice:500gm
+whole spices
+curd - 2 spoon
+coriander leaves
+mint leaves
+ghee-100gm
